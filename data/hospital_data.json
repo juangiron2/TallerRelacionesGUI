@@ -1,1 +1,11 @@
-
+{
+    "nombre": "hospital",
+    "direccion": "calle 2",
+    "doctores": [
+        {
+            "nombre": "pedro",
+            "especialidad": "cirujano",
+            "dni": "123"
+        }
+    ]
+}
